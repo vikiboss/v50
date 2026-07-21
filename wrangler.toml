@@ -1,0 +1,7 @@
+name = "v50"
+main = "./api/cf.ts"
+compatibility_date = "2026-07-21"
+compatibility_flags = [ "nodejs_compat" ]
+
+[observability.logs]
+enabled = true
