@@ -10,7 +10,7 @@
 
 你可以通过下面任意一种方式获取本仓库的文案数据。
 
-- 通过 API 获取：https://v50.deno.dev
+- 通过 API 获取：https://v50.viki.moe
 - 直接拷贝 JSON 数据使用：`./static/v50.json`
 - 通过 CDN 获取最新的 JSON 数据
 
